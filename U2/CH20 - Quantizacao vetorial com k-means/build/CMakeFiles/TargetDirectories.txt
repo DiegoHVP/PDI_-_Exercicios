@@ -1,0 +1,3 @@
+/home/diego/Música/PDI_-_Exercicios/U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir
+/home/diego/Música/PDI_-_Exercicios/U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/edit_cache.dir
+/home/diego/Música/PDI_-_Exercicios/U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/rebuild_cache.dir

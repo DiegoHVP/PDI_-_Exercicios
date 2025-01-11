@@ -1,0 +1,3 @@
+/home/diego/Música/PDI_-_Exercicios/U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir
+/home/diego/Música/PDI_-_Exercicios/U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/edit_cache.dir
+/home/diego/Música/PDI_-_Exercicios/U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/rebuild_cache.dir

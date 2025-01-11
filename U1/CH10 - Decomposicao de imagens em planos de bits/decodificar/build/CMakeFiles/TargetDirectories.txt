@@ -1,0 +1,3 @@
+/home/diego/Música/PDI_-_Exercicios/U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir
+/home/diego/Música/PDI_-_Exercicios/U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/edit_cache.dir
+/home/diego/Música/PDI_-_Exercicios/U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/rebuild_cache.dir

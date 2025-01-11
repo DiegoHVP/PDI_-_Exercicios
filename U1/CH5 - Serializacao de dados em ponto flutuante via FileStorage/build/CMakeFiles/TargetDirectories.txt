@@ -1,0 +1,3 @@
+/home/diego/Música/PRATICAS AGOSTINHO/U1/Capitulo 5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir
+/home/diego/Música/PRATICAS AGOSTINHO/U1/Capitulo 5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/edit_cache.dir
+/home/diego/Música/PRATICAS AGOSTINHO/U1/Capitulo 5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/rebuild_cache.dir

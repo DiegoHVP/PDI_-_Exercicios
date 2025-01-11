@@ -1,0 +1,3 @@
+/home/diego/Música/PDI_-_Exercicios/U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir
+/home/diego/Música/PDI_-_Exercicios/U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/edit_cache.dir
+/home/diego/Música/PDI_-_Exercicios/U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/diego/Música/PRATICAS AGOSTINHO/U1/Capítulo 11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir
+/home/diego/Música/PRATICAS AGOSTINHO/U1/Capítulo 11 - Preenchendo regioes/build/CMakeFiles/edit_cache.dir
+/home/diego/Música/PRATICAS AGOSTINHO/U1/Capítulo 11 - Preenchendo regioes/build/CMakeFiles/rebuild_cache.dir

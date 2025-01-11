@@ -1,0 +1,534 @@
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/lena.png
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/CMakeLists.txt
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/trocaRegioes
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeCache.txt
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/cmake_install.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/Makefile
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/Makefile.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/Makefile2
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/DependInfo.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/flags.make
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/build.make
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/link.txt
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/trocaRegioes.cpp.o.d
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/progress.make
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/trocaRegioes.cpp.o
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/compiler_depend.make
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/compiler_depend.ts
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/compiler_depend.internal
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/cmake_clean.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir/depend.make
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/trocaRegioes.dir
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/CMakeTmp
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CompilerIdC
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/3.22.1
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/CMakeOutput.log
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/progress.marks
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/TargetDirectories.txt
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles/cmake.check_cache
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build/CMakeFiles
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/build
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/imagem.jpg
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes/trocaRegioes.cpp
+./U1/CH2 - Manipulando pixels em uma imagem/trocaRegioes
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/CMakeLists.txt
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/regioes
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeCache.txt
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/cmake_install.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/Makefile
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/Makefile.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/DependInfo.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/flags.make
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/build.make
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/link.txt
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/regioes.cpp.o.d
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/progress.make
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/compiler_depend.make
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/regioes.cpp.o
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/compiler_depend.ts
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/compiler_depend.internal
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/cmake_clean.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir/depend.make
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/regioes.dir
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/Makefile2
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/CMakeTmp
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CompilerIdC
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/3.22.1
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/CMakeOutput.log
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/progress.marks
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/TargetDirectories.txt
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles/cmake.check_cache
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build/CMakeFiles
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/build
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/imagem.jpg
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/result/resultado.png
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/result
+./U1/CH2 - Manipulando pixels em uma imagem/negativo/regioes.cpp
+./U1/CH2 - Manipulando pixels em uma imagem/negativo
+./U1/CH2 - Manipulando pixels em uma imagem/.vscode/c_cpp_properties.json
+./U1/CH2 - Manipulando pixels em uma imagem/.vscode/settings.json
+./U1/CH2 - Manipulando pixels em uma imagem/.vscode
+./U1/CH2 - Manipulando pixels em uma imagem
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/desafio-esteganografia.png
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/CMakeLists.txt
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/decodificada.png
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeCache.txt
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/recup_img
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/cmake_install.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/Makefile
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/Makefile.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/Makefile2
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/DependInfo.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/flags.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/build.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/link.txt
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/recup_img.cpp.o.d
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/progress.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/compiler_depend.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/compiler_depend.ts
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/recup_img.cpp.o
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/compiler_depend.internal
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/cmake_clean.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir/depend.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/recup_img.dir
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/CMakeTmp
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CompilerIdC
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/3.22.1
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/CMakeOutput.log
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/progress.marks
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/TargetDirectories.txt
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles/cmake.check_cache
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build/CMakeFiles
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/build
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar/recup_img.cpp
+./U1/CH10 - Decomposicao de imagens em planos de bits/decodificar
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/CMakeLists.txt
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/biel-color.png
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/codificar.cpp
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/sushi-color.png
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeCache.txt
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/esteganografia.png
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/cmake_install.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/Makefile
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/codificar
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/Makefile.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/Makefile2
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/CMakeTmp
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CompilerIdC
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/3.22.1
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/CMakeOutput.log
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/progress.marks
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/TargetDirectories.txt
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/cmake.check_cache
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/DependInfo.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/flags.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/build.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/codificar.cpp.o.d
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/link.txt
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/progress.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/codificar.cpp.o
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/compiler_depend.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/compiler_depend.ts
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/cmake_clean.cmake
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir/depend.make
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar/build
+./U1/CH10 - Decomposicao de imagens em planos de bits/codificar
+./U1/CH10 - Decomposicao de imagens em planos de bits
+./U1/CH11 - Preenchendo regioes/fillLocals.cpp
+./U1/CH11 - Preenchendo regioes/CMakeLists.txt
+./U1/CH11 - Preenchendo regioes/bolhas.png
+./U1/CH11 - Preenchendo regioes/build/CMakeCache.txt
+./U1/CH11 - Preenchendo regioes/build/cmake_install.cmake
+./U1/CH11 - Preenchendo regioes/build/Makefile
+./U1/CH11 - Preenchendo regioes/build/fillLocals
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/Makefile.cmake
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/Makefile2
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/CMakeTmp
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/DependInfo.cmake
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/flags.make
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/build.make
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/link.txt
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/progress.make
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/fillLocals.cpp.o
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/compiler_depend.make
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/compiler_depend.ts
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/compiler_depend.internal
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/cmake_clean.cmake
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/fillLocals.cpp.o.d
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir/depend.make
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/fillLocals.dir
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CompilerIdC
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/3.22.1
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/CMakeOutput.log
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/progress.marks
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/TargetDirectories.txt
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles/cmake.check_cache
+./U1/CH11 - Preenchendo regioes/build/CMakeFiles
+./U1/CH11 - Preenchendo regioes/build
+./U1/CH11 - Preenchendo regioes/labeling.png
+./U1/CH11 - Preenchendo regioes
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/CMakeLists.txt
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/linha_diferenca.csv
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/senoide
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeCache.txt
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/cmake_install.cmake
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/Makefile
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/senoide-256.yml
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/senoide-256.png
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/Makefile.cmake
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/Makefile2
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/CMakeTmp
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CompilerIdC
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/3.22.1
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/CMakeOutput.log
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/progress.marks
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/TargetDirectories.txt
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/DependInfo.cmake
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/flags.make
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/build.make
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/senoide.cpp.o.d
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/link.txt
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/progress.make
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/compiler_depend.make
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/compiler_depend.ts
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/senoide.cpp.o
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/cmake_clean.cmake
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir/depend.make
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/senoide.dir
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles/cmake.check_cache
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build/CMakeFiles
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/build
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/senoide.cpp
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/Grafico de diferenca/Grafico_CSV.ipynb
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/Grafico de diferenca/download.png
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage/Grafico de diferenca
+./U1/CH5 - Serializacao de dados em ponto flutuante via FileStorage
+./U1
+./U2/CH20 - Quantizacao vetorial com k-means/index.as
+./U2/CH20 - Quantizacao vetorial com k-means/CMakeLists.txt
+./U2/CH20 - Quantizacao vetorial com k-means/sushi-color.png
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeCache.txt
+./U2/CH20 - Quantizacao vetorial com k-means/build/cmake_install.cmake
+./U2/CH20 - Quantizacao vetorial com k-means/build/Makefile
+./U2/CH20 - Quantizacao vetorial com k-means/build/quantizar
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/Makefile.cmake
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/Makefile2
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/CMakeTmp
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/DependInfo.cmake
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/flags.make
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/build.make
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/link.txt
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/quantizar.cpp.o.d
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/progress.make
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/quantizar.cpp.o
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/compiler_depend.make
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/compiler_depend.ts
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/compiler_depend.internal
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/cmake_clean.cmake
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir/depend.make
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/quantizar.dir
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CompilerIdC
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/3.22.1
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/CMakeOutput.log
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/progress.marks
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/TargetDirectories.txt
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles/cmake.check_cache
+./U2/CH20 - Quantizacao vetorial com k-means/build/CMakeFiles
+./U2/CH20 - Quantizacao vetorial com k-means/build
+./U2/CH20 - Quantizacao vetorial com k-means/quantizar.cpp
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s2.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s0.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s3.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s7.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s4.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s8.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s9.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s5.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s6.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida/s1.jpg
+./U2/CH20 - Quantizacao vetorial com k-means/saida
+./U2/CH20 - Quantizacao vetorial com k-means
+./U2/CH17 - Filtragem no Domínio da Frequencia/fdf.cpp
+./U2/CH17 - Filtragem no Domínio da Frequencia/CMakeLists.txt
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/fdf
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeCache.txt
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/cmake_install.cmake
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/Makefile
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/Makefile.cmake
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/Makefile2
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/CMakeTmp
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/DependInfo.cmake
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/flags.make
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/build.make
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/link.txt
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/progress.make
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/compiler_depend.make
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/compiler_depend.ts
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/compiler_depend.internal
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/cmake_clean.cmake
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/fdf.cpp.o
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/depend.make
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir/fdf.cpp.o.d
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/fdf.dir
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CompilerIdC
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/3.22.1
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/CMakeOutput.log
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/progress.marks
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/TargetDirectories.txt
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles/cmake.check_cache
+./U2/CH17 - Filtragem no Domínio da Frequencia/build/CMakeFiles
+./U2/CH17 - Filtragem no Domínio da Frequencia/build
+./U2/CH17 - Filtragem no Domínio da Frequencia
+./U2/CH16 - Tranformada Discreta de Fourier/CMakeLists.txt
+./U2/CH16 - Tranformada Discreta de Fourier/espectro_fase.png
+./U2/CH16 - Tranformada Discreta de Fourier/.vscode/c_cpp_properties.json
+./U2/CH16 - Tranformada Discreta de Fourier/.vscode
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeCache.txt
+./U2/CH16 - Tranformada Discreta de Fourier/build/cmake_install.cmake
+./U2/CH16 - Tranformada Discreta de Fourier/build/Makefile
+./U2/CH16 - Tranformada Discreta de Fourier/build/dft
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/Makefile.cmake
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/Makefile2
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/CMakeTmp
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CompilerIdC
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/3.22.1
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/CMakeOutput.log
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/progress.marks
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/TargetDirectories.txt
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/cmake.check_cache
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/DependInfo.cmake
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/flags.make
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/build.make
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/dft.cpp.o
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/link.txt
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/progress.make
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/compiler_depend.make
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/compiler_depend.ts
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/compiler_depend.internal
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/cmake_clean.cmake
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/dft.cpp.o.d
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir/depend.make
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles/dft.dir
+./U2/CH16 - Tranformada Discreta de Fourier/build/CMakeFiles
+./U2/CH16 - Tranformada Discreta de Fourier/build
+./U2/CH16 - Tranformada Discreta de Fourier/teste.png
+./U2/CH16 - Tranformada Discreta de Fourier/espectro_magnitude.png
+./U2/CH16 - Tranformada Discreta de Fourier/dft.cpp
+./U2/CH16 - Tranformada Discreta de Fourier
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/pontos.jpg
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/CMakeLists.txt
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/pontilhismo_canny.jpg
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeCache.txt
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/cmake_install.cmake
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/Makefile
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/kmeans
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/CMakeDirectoryInformation.cmake
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/Makefile.cmake
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/Makefile2
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/CMakeTmp
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/DependInfo.cmake
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/flags.make
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/build.make
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/link.txt
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/kmeans.cpp.o.d
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/progress.make
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/kmeans.cpp.o
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/compiler_depend.make
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/compiler_depend.ts
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/compiler_depend.internal
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/cmake_clean.cmake
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir/depend.make
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/kmeans.dir
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_CXX.bin
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CMakeSystem.cmake
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CompilerIdC/CMakeCCompilerId.c
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CompilerIdC/tmp
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CompilerIdC/a.out
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CompilerIdC
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CompilerIdCXX/tmp
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CompilerIdCXX/a.out
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CompilerIdCXX
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CMakeCXXCompiler.cmake
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CMakeCCompiler.cmake
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1/CMakeDetermineCompilerABI_C.bin
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/3.22.1
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/CMakeOutput.log
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/progress.marks
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/TargetDirectories.txt
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles/cmake.check_cache
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build/CMakeFiles
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/build
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/imagem.jpg
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny/kmeans.cpp
+./U2/CH19 - Deteccao de bordas com o algoritmo de Canny
+./U2
+./.git/index
+./.git/info/exclude
+./.git/info
+./.git/branches
+./.git/packed-refs
+./.git/HEAD
+./.git/config
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-merge-commit.sample
+./.git/hooks/commit-msg.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/push-to-checkout.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/update.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks
+./.git/logs/HEAD
+./.git/logs/refs/remotes/origin/HEAD
+./.git/logs/refs/remotes/origin
+./.git/logs/refs/remotes
+./.git/logs/refs/heads/main
+./.git/logs/refs/heads
+./.git/logs/refs
+./.git/logs
+./.git/objects/info
+./.git/objects/pack/pack-f40cd9998395a599e55919b98d0fcbec27176530.idx
+./.git/objects/pack/pack-f40cd9998395a599e55919b98d0fcbec27176530.pack
+./.git/objects/pack
+./.git/objects
+./.git/description
+./.git/refs/remotes/origin/HEAD
+./.git/refs/remotes/origin
+./.git/refs/remotes
+./.git/refs/heads/main
+./.git/refs/heads
+./.git/refs/tags
+./.git/refs
+./.git
+./caminhos.txt
+./index.asc
+./index.html
+./.vscode/settings.json
+./.vscode
+./README.md
+.

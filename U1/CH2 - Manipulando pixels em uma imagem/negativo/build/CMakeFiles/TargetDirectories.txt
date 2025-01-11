@@ -1,0 +1,3 @@
+/home/diego/Música/PRATICAS AGOSTINHO/U1/Capítulo 2 - Manipulando pixels em uma imagem/regioes/build/CMakeFiles/regioes.dir
+/home/diego/Música/PRATICAS AGOSTINHO/U1/Capítulo 2 - Manipulando pixels em uma imagem/regioes/build/CMakeFiles/edit_cache.dir
+/home/diego/Música/PRATICAS AGOSTINHO/U1/Capítulo 2 - Manipulando pixels em uma imagem/regioes/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/diego/Música/PRATICAS AGOSTINHO/U1/CapItulo 10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/codificar.dir
+/home/diego/Música/PRATICAS AGOSTINHO/U1/CapItulo 10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/edit_cache.dir
+/home/diego/Música/PRATICAS AGOSTINHO/U1/CapItulo 10 - Decomposicao de imagens em planos de bits/codificar/build/CMakeFiles/rebuild_cache.dir
